@@ -51,8 +51,8 @@
 
  [![GITHUB](https://github.com/KazeDevID.png?size=100)](https://github.com/KazeDevID) |
  ----|
- [TELEGRAM](https://t.me/KazeDevID) |
- Penulis, Basis, Perbaikan Bug |
+ [KAZE](https://t.me/KazeDevID) |
+ Penulis, Base, Perbaikan Bug |
 
 
  ### Penafian
